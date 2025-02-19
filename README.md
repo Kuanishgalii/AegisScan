@@ -78,6 +78,7 @@ test_url = "http://ваш_сайт.com"
 
 python aegis_scan.py
 
+-----
 
 Как работает инструмент
 
@@ -125,6 +126,7 @@ python aegis_scan.py
 2025-02-19 14:30:00 - WARNING - Заголовок отсутствует: X-Frame-Options
 2025-02-19 14:30:02 - WARNING - Найден уязвимый путь: http://example.com/robots.txt
 2025-02-19 14:30:02 - INFO - Обнаружена CMS wordpress по мета-тегу.
+
 2025-02-19 14:30:02 - INFO - Просмотр уязвимостей на https://wpvulndb.com/
 
 ------
